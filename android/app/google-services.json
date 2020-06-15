@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127510383319",
+    "firebase_url": "https://dubai-store.firebaseio.com",
+    "project_id": "dubai-store",
+    "storage_bucket": "dubai-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127510383319:android:43176e735a69cf7facbe92",
+        "android_client_info": {
+          "package_name": "com.example.dubai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127510383319-eq3d93sm2sd2nr5fu0ticl2r1qa0gv5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMyq1Z9-n8M0rjVspbk2UdzdDQ7TLwnKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127510383319-eq3d93sm2sd2nr5fu0ticl2r1qa0gv5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
